@@ -4,7 +4,7 @@
  */
 const CONFIG = {
   // URL pública oficial da API hospedada na Vercel
-  PROD_API_URL: 'https://setor-prova-rds.vercel.app/api',
+  PROD_API_URL: 'https://backend-mu-nine-e6g77s3o6n.vercel.app',
 
   // URL para testes em ambiente local
   get LOCAL_API_URL() {
