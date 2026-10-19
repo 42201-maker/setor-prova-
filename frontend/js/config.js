@@ -4,7 +4,7 @@
  */
 const CONFIG = {
   // URL pública oficial da API hospedada na Vercel
-API_URL: 'https://backend-mu-nine-e6g77s3o6n.vercel.app',
+API_URL: 'https://backend-mu-nine-e6g77s3o6n.vercel.app/api',
 
   // URL para testes em ambiente local
   get LOCAL_API_URL() {
